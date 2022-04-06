@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css"> 
+    </head>
+    <body><section id="main">
+        <ul class="ul"
+        <br>
+            <li><a href="#suge"  id="li"class="sugueri">Sugerencias </a></li></ul><br><br><br><br>
+
+            <img src=""><section id="tab" class="welcome">
+            
+<h3 id="tel" class="phone">Telefono</h3><h2 id="numero" class="phone">624 543 765</h2><img id="icon" class="llamada" src="llamada-telefonica.png">
+<h3 id="chef" class="cocinero">Chef</h3><h2 id="name" class="cocinero">Arnav</h2><img id="icon"  class="cocina"src="cocina(1).png">
+<h3 id="resta" class="restaurante">Restaurante</h3><h2 id="nameres" class="restaurante">Il Forno</h2><img id="icon" class="res"  src="restaurante.png">
+<h3 id="gmail" class="mail">Gmail</h3><h2 id="gmailko" class="mail">ilforno@italianrest.gmail</h2><img id="icon" class="maing" src="gmail (1).png"><br>
+<img  id="icon" class="info" src="info.png"></section>
+<h1 id="titulo">Il Forno italian food</h1>
+<p id="informacionx">The most original Italian restaurant in Cabo San Lucas.
+    </p>
+    
+<button id="menu" onclick="menuput()">Menu del restaurante</button></section>
+<img id="menul" src="" >
+<section id="suge" class="mensajes">
+    <div><h5 id="enviado"></h5></div>
+    <section id="expresar">
+    <input id="coment" placeholder="Escriba su comentario" type="text">
+    <img id="enviar" src="enviar.png" onclick="enviar()"></section></section>
+   <center> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.6545024530005!2d-109.90833178439982!3d22.88921792704132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4afa92779cc1%3A0xeb3f22ec90e8630d!2sIl%20Forno!5e0!3m2!1ses!2smx!4v1649206501456!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></center>
+
+<script>
+var img="menu.png";
+function menuput(){
+    document.getElementById("menul").src="menu.png";
+    document.getElementById("menul").style.display="inline-block";
+}
+var comentarios=[];
+function enviar(){
+   var come= document.getElementById("coment").value;
+    comentarios.push(come);
+    document.getElementById("enviado").innerHTML=comentarios;
+    document.getElementById("enviado").style.display="inline-block";
+    
+    
+
+
+
+}
+</script>
+
+            
+    </body>
+</html>

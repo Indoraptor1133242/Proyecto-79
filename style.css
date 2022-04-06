@@ -1,0 +1,203 @@
+#icon{
+    width: 60px;
+    height: 60px;
+}
+.cocinero{
+    margin-left: 350px;
+    
+}
+#chef{
+    margin-top: -90px; 
+}
+.phone{
+    margin-left:100px ;
+}
+.llamada{
+    margin-top: -80px;
+}
+.cocina{
+    margin-top: -90px;
+    margin-left:260px;
+}
+.restaurante{
+    margin-left: 550px;
+    
+}
+#resta{
+    margin-top: -90px; 
+}
+.res{
+    margin-left: 470px;
+    margin-top: -85px; 
+}
+.mail{
+    margin-left: 750px;
+
+}
+#gmail{
+    margin-top: -90px;
+}
+.maing{
+    margin-left: 670px;
+    margin-top: -90px;
+}
+.info{
+    margin-left: 1130px;
+    margin-top: -90px;
+    background-color: rgba(0, 0, 0, 0.521);
+    border-radius: 70px;
+    padding: 10px;
+}
+#tab{
+    background-color:whitesmoke;
+    border-radius: 40px;
+    padding: 1px;
+    width: 1200px;
+    margin-left: 270px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+#tel{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+#chef{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#resta{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#gmail{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#numero{
+    color: rgba(128, 128, 128, 0.699);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#name{
+    color: rgba(128, 128, 128, 0.699);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#nameres{
+    color: rgba(128, 128, 128, 0.699);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#gmailko{
+    color: rgba(128, 128, 128, 0.699);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    margin-top: 160px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    color: whitesmoke;
+}
+#informacionx{
+    margin-right: 1570px;
+    margin-left: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    
+}
+#menu{
+    margin-left: 25px;
+    background-color: black;
+    color: white;
+    border-width: 0px;
+    border-radius: 6px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 16px;
+padding: 5px;
+padding-left: 15px;
+padding-right: 15px;
+
+}
+#coment{
+    border-width: 0px;
+    background-color:rgba(255, 255, 255, 0.589);
+    font-size: 30px;
+    border-color: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 1460px;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-top: 450px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
+#enviar{
+    width: 50px;
+    height: 50px;
+    background-color: rgba(28, 28, 209, 0.767);
+    border-radius: 50px;
+    padding: 3px;
+    margin-top: 200px;
+    margin-left: 30px;
+    
+    
+}
+h5{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    background-color: rgba(245, 245, 245, 0.849);
+    padding: 10px;
+    border-radius: 40px;
+    width: 300px;
+    display: none;
+}
+.mensajes{
+background-image: url(comentario.png);
+padding-top: px;
+padding-bottom: 100px;
+height: 600px;
+margin-top: 100px;
+border-radius: 40px;
+}
+#main{
+    background-image: url(pasta.png);
+    padding-bottom: 200px;
+    border-bottom-left-radius: 40px;  
+    border-bottom-right-radius: 40px;
+}
+.ul{
+   float: right;
+   list-style: none;
+  
+   cursor: pointer;
+   background-color: rgba(128, 128, 128, 0.479);
+   padding-left: 2000px;
+   margin-top: -6px;
+   padding-right: 30px;
+   
+}
+#li{
+    text-decoration: none;
+    color: gainsboro;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    
+}
+.sugueri{
+    margin-right: 15px;
+}
+#menul{
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+margin-left: 1000px;
+margin-top: -510px;
+display: none;
+}
+iframe{
+    margin-top: 90px;
+    border-radius: 50px;
+    align-self: center;
+}
+
+
